@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm HICHAM Saad</h1>
+
+<div align="center">
+    <img src="https://cdn.pixabay.com/photo/2018/03/15/11/07/software-engineer-3223521_1280.jpg"  style="max-width:100%;">
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+
 - 🔭 I’m currently working on software Engineer at EMSI.
 
 - 🌱 I’m currently learning everything about Software Engineering (JAVA developement, Web Frameworks, Mobile development),
