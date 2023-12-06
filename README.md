@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
 
-- 🔭 I’m currently working on software Engineer at EMSI.
+- 🔭 I’m currently working on `computer and network engineer ` at <a href="https://emsi.ma/" target="_blank">EMSI</a>.
 
 - 🌱 I’m currently learning everything about Software Engineering (JAVA developement, Web Frameworks, Mobile development),
 
