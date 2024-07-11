@@ -32,8 +32,8 @@
  <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt=".NET MAUI" width="40" height="40"/> 
 </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/> 
+<a href="https://dotnet.microsoft.com/apps/maui" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt=".NET MAUI" width="40" height="40"/> 
 </a>
 </p>
 
