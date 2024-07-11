@@ -33,7 +33,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/> 
 </a>
 <a href="https://dotnet.microsoft.com/apps/maui" target="_blank" rel="noreferrer"> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg](https://www.macrix.eu/wp-content/uploads/2022/09/Blog-1-1024x452.png)" alt=".NET MAUI" width="40" height="40"/> 
+  <img src="[[https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg](https://www.macrix.eu/wp-content/uploads/2022/09/Blog-1-1024x452.png)](https://media.licdn.com/dms/image/D4E12AQFxq7jhcfGOfw/article-cover_image-shrink_720_1280/0/1702844830180?e=2147483647&v=beta&t=MSz2usHdTs3vM1xakliyzNcXJtXy3t5C_1vpETFpWgU)" alt=".NET MAUI" width="40" height="40"/> 
 </a>
 </p>
 
