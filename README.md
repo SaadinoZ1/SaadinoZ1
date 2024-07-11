@@ -32,10 +32,6 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/> 
 </a>
-<a href="https://dotnet.microsoft.com/apps/maui" target="_blank" rel="noreferrer"> 
-  <img src="![image](https://github.com/SaadinoZ1/SaadinoZ1/assets/116951994/5291af20-1e04-4453-8a8c-fbc92cad8671)
-" alt=".NET MAUI" width="40" height="40"/> 
-</a>
 </p>
 
 
